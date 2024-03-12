@@ -1,6 +1,8 @@
 # All NeRF&3DGS-related Papers at CVPR 2024
 
 We've compiled all papers presented at CVPR’24.
+There are more than 120 (70+58) papers related to NeRF and 3DGS at the CVPR 2024 conference.
+All papers can be found at
 [NeRF at CVPR](https://github.com/Yubel426/NeRF-3DGS-at-CVPR-2024/blob/main/NeRF%20at%20CVPR%202024.md) and
 [3DGS at CVPR](https://github.com/Yubel426/NeRF-3DGS-at-CVPR-2024/blob/main/3DGS%20at%20CVPR%202024.md).
 
