@@ -135,3 +135,94 @@
 - Paper: https://arxiv.org/abs/2403.02265
 
 [42] G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images
+
+[43] SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields
+- Paper: https://arxiv.org/abs/2311.15803v2
+- Project: https://qherau.github.io/SOAC/
+
+[44] Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields
+- Paper: https://arxiv.org/abs/2309.03185
+- Project: https://github.com/BayesRays/BayesRays
+
+[45] S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes
+- Paper: https://arxiv.org/abs/2403.06205
+- Project: https://xingyi-li.github.io/s-dyrf/
+
+[46] Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation
+
+[47] DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video
+- Paper: https://arxiv.org/abs/2312.13528
+- Project: https://kaist-viclab.github.io/dyblurf-site/
+
+[48] TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video
+- Paper: https://arxiv.org/abs/2312.06713
+- Project: https://wuminye.github.io/projects/TeTriRF/
+
+[49] WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights
+- Paper: https://arxiv.org/pdf/2312.02456
+  
+[50] MuRF: Multi-Baseline Radiance Fields
+- Paper: https://arxiv.org/abs/2312.04565
+- Project: https://haofeixu.github.io/murf/
+- 
+[51] Mitigating Motion Blur in Neural Radiance Fields with Events and Frames
+
+[52] OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos
+
+[53] Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency
+
+[54] ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization
+- Paper: https://arxiv.org/abs/2401.08937
+
+[55] Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in a Neural Radiance Field
+
+[56] Tactile-Augmented Radiance Fields
+
+[57] CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs
+
+[58] IReNe: Instant Recoloring of Neural Radiance Fields
+- Paper: https://arxiv.org/abs/2309.01811
+- Project: https://ryanpo.com/icngp/
+
+[59] Improving Physics-Augmented Continuum Neural Radiance Fields-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization
+
+[60] Neural Super-Resolution for Real-time Rendering with Radiance Demodulation
+- Paper: https://arxiv.org/abs/2308.06699
+  
+[61] Geometry Transfer for Stylizing Radiance Fields
+- Paper: https://arxiv.org/abs/2402.00863
+- Project: https://hyblue.github.io/geo-srf/
+
+[62] Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?
+- Paper: https://arxiv.org/abs/2403.06092
+  
+[63] Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates
+- Paper: https://arxiv.org/abs/2309.11281
+- Project: https://github.com/kcshum/pose-conditioned-NeRF-object-fusion
+
+[64] Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields
+- Project: https://www.whyy.site/paper/nep
+
+[65] Compact 3D Gaussian Representation for Radiance Field
+- Paper: https://arxiv.org/abs/2311.13681
+- Project: https://github.com/maincold2/Compact-3DGS
+
+[66] VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams
+- Paper: https://arxiv.org/abs/2312.01407
+- Project: https://aoliao12138.github.io/VideoRF/
+
+[67] Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields
+- Paper: https://arxiv.org/abs/2311.11845
+- Project: https://github.com/tatakai1/evenerf
+
+[68] BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation
+- Paper: https://arxiv.org/abs/2312.02136
+- Project: https://zqh0253.github.io/BerfScene/
+
+[69] GARField: Group Anything with Radiance Fields
+- Paper: https://arxiv.org/abs/2401.09419
+- Project: https://www.garfield.studio/
+
+[70] Delving into Lidar for Neural Radiance Field on Road Scenes
+
+[71] Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields
