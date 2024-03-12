@@ -164,7 +164,7 @@
 [50] MuRF: Multi-Baseline Radiance Fields
 - Paper: https://arxiv.org/abs/2312.04565
 - Project: https://haofeixu.github.io/murf/
-- 
+  
 [51] Mitigating Motion Blur in Neural Radiance Fields with Events and Frames
 
 [52] OmniLocalRF: Omnidirectional Local Radiance Fields from Dynamic Videos
@@ -203,9 +203,7 @@
 [64] Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields
 - Project: https://www.whyy.site/paper/nep
 
-[65] Compact 3D Gaussian Representation for Radiance Field
-- Paper: https://arxiv.org/abs/2311.13681
-- Project: https://github.com/maincold2/Compact-3DGS
+[65] Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields
 
 [66] VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams
 - Paper: https://arxiv.org/abs/2312.01407
@@ -224,5 +222,3 @@
 - Project: https://www.garfield.studio/
 
 [70] Delving into Lidar for Neural Radiance Field on Road Scenes
-
-[71] Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields
