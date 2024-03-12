@@ -135,4 +135,3 @@
 - Paper: https://arxiv.org/abs/2403.02265
 
 [42] G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images
-# 3DGS at CVPR 24
