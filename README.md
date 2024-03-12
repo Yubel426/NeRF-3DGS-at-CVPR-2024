@@ -79,5 +79,71 @@ The following is a list of papers with code or paper.
   [Project](https://eckertzhang.github.io/Text2NeRF.github.io/)
 
 - DaReNeRF: Direction-aware Representation for Dynamic Scenes
-  [Paper](https://arxiv.org/abs/2403.02265)
+[Paper](https://arxiv.org/abs/2403.02265)
 
+- SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields
+[Paper](https://arxiv.org/abs/2311.15803)v2
+[Project](https://qherau.github.io/SOAC/)
+
+- Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields
+[Paper](https://arxiv.org/abs/2309.03185)
+[Project](https://github.com/BayesRays/BayesRays)
+
+- S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes
+[Paper](https://arxiv.org/abs/2403.06205)
+[Project](https://xingyi-li.github.io/s-dyrf/)
+
+- DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video
+[Paper](https://arxiv.org/abs/2312.13528)
+[Project](https://kaist-viclab.github.io/dyblurf-site/)
+
+- TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video
+[Paper](https://arxiv.org/abs/2312.06713)
+[Project](https://wuminye.github.io/projects/TeTriRF/)
+
+- WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights
+  [Paper](https://arxiv.org/pdf/2312.02456)
+  
+- MuRF: Multi-Baseline Radiance Fields
+[Paper](https://arxiv.org/abs/2312.04565)
+[Project](https://haofeixu.github.io/murf/)
+
+- ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization
+[Paper](https://arxiv.org/abs/2401.08937)
+
+- IReNe: Instant Recoloring of Neural Radiance Fields
+[Paper](https://arxiv.org/abs/2309.01811)
+[Project](https://ryanpo.com/icngp/)
+
+- Neural Super-Resolution for Real-time Rendering with Radiance Demodulation
+[Paper](https://arxiv.org/abs/2308.06699)
+  
+- Geometry Transfer for Stylizing Radiance Fields
+[Paper](https://arxiv.org/abs/2402.00863)
+[Project](https://hyblue.github.io/geo-srf/)
+
+- Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?
+[Paper](https://arxiv.org/abs/2403.06092)
+  
+- Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates
+[Paper](https://arxiv.org/abs/2309.11281)
+[Project](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)
+
+- Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields
+[Project](https://www.whyy.site/paper/nep)
+
+- VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams
+[Paper](https://arxiv.org/abs/2312.01407)
+[Project](https://aoliao12138.github.io/VideoRF/)
+
+- Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields
+[Paper](https://arxiv.org/abs/2311.11845)
+[Project](https://github.com/tatakai1/evenerf)
+
+- BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation
+[Paper](https://arxiv.org/abs/2312.02136)
+[Project](https://zqh0253.github.io/BerfScene/)
+
+- GARField: Group Anything with Radiance Fields
+[Paper](https://arxiv.org/abs/2401.09419)
+[Project](https://www.garfield.studio/)
