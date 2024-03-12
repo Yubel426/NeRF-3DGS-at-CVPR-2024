@@ -12,79 +12,79 @@
 
 - Paper: https://arxiv.org/abs/2311.11863
 
-[6] **Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**
+[6] Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes
 
-[7] **LAENeRF: Local Appearance Editing for Neural Radiance Fields**
+[7] LAENeRF: Local Appearance Editing for Neural Radiance Fields
 
 - Paper: https://arxiv.org/abs/2312.09913
 - Project: https://r4dl.github.io/LAENeRF/
 
-[8] **SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**
+[8] SIGNeRF: Scene Integrated Generation for Neural Radiance Fields
 
 - Paper: https://arxiv.org/abs/2401.01647
 - Project: https://signerf.jdihlmann.com/
 
-[9] **NeRF Director: Revisiting View Selection in Neural Volume Rendering**
+[9] NeRF Director: Revisiting View Selection in Neural Volume Rendering
 
-[10] **GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**
+[10] GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding
 
 - Paper: https://arxiv.org/abs/2403.03608
 
-[11] **Cinematic Behavior Transfer via NeRF-based Differentiable Filming**
+[11] Cinematic Behavior Transfer via NeRF-based Differentiable Filming
 
 - Paper: https://arxiv.org/abs/2311.17754
 - Project: https://virtualfilmstudio.github.io/projects/cinetransfer/
 
-[12] **PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**
+[12] PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF
 
 - Paper: https://arxiv.org/abs/2311.13099
 - Project: https://fytalon.github.io/pienerf/
 
-[13] **Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**
+[13] Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs
 
 - Paper: https://arxiv.org/abs/2312.07246
 
-[14] **ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**
+[14] ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models
 
-[15] **HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**
+[15] HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces
 
 - Paper: https://arxiv.org/abs/2312.03160
 - Project: https://haithemturki.com/hybrid-nerf/
 
-[16] **SpecNeRF: Gaussian Directional Encoding for Specular Reflections**
+[16] SpecNeRF: Gaussian Directional Encoding for Specular Reflections
 
 - Paper: https://arxiv.org/abs/2312.13102
 - Project: https://limacv.github.io/SpecNeRF_web/
 
 [17] NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild
 
-[18] **ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf**
+[18] ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf
 
 - Paper: https://arxiv.org/abs/2311.04246
 
-[19] **NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation**
+[19] NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation
 
-[20]**PlatoNeRF: 3D Reconstruction in Plato’s Cave via Single-View Two-Bounce Lidar**
+[20]PlatoNeRF: 3D Reconstruction in Plato’s Cave via Single-View Two-Bounce Lidar
 
 - Paper: https://arxiv.org/abs/2312.14239
 - Project: https://platonerf.github.io/
 
-[21] **PaReNeRF: Toward Fast Large-scale Dynamic NeRF with Patch-based Reference**
+[21] PaReNeRF: Toward Fast Large-scale Dynamic NeRF with Patch-based Reference
 
-[22] **Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes**
+[22] Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes
 
-[23] **InNeRF360: Text-Guided 3D-Consistent Object Inpainting on Unbounded Neural Radiance Fields**
+[23] InNeRF360: Text-Guided 3D-Consistent Object Inpainting on Unbounded Neural Radiance Fields
 
-[24] **DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF**
+[24] DiSR-NeRF: Diffusion-Guided View-Consistent Super-Resolution NeRF
 
-[25] **SANeRF-HQ: Segment Anything for NeRF in High Quality**
+[25] SANeRF-HQ: Segment Anything for NeRF in High Quality
 
 - Paper: https://arxiv.org/abs/2312.01531
 - Project: https://lyclyc52.github.io/SANeRF-HQ/
 
-[26] **ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images**
+[26] ESR-NeRF: Emissive Source Reconstruction Using LDR Multi-view Images
 
-[27] **HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses**
+[27] HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses
 
 - Paper: https://arxiv.org/abs/2312.02232
 - Project: https://github.com/Miles629/HumanNeRF-SE
