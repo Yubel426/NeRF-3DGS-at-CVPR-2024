@@ -222,3 +222,6 @@
 - Project: https://www.garfield.studio/
 
 [70] Delving into Lidar for Neural Radiance Field on Road Scenes
+
+[71] Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery
+- Project: https://zyqz97.github.io/Aerial_Lifting/
