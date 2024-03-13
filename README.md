@@ -153,6 +153,9 @@ The following is a list of papers with code or paper.
 [Paper](https://arxiv.org/abs/2401.09419)
 [Project](https://www.garfield.studio/)
 
+- Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery
+[Project](https://zyqz97.github.io/Aerial_Lifting/)
+
 ## 3DGS at CVPR 2024
 - DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization
 [Paper](https://arxiv.org/abs/2403.06912)
