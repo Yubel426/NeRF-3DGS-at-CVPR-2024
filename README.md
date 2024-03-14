@@ -7,6 +7,10 @@ All papers can be found at
 [3DGS at CVPR](https://github.com/Yubel426/NeRF-3DGS-at-CVPR-2024/blob/main/3DGS%20at%20CVPR%202024.md).
 
 The following is a list of papers with code or paper.
+
+- [NeRF](#nerf-at-cvpr-2024)
+- [3DGS](#3dgs-at-cvpr-2024)
+
 ## NeRF at CVPR 2024
 ### Faster Inference
 - HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces
