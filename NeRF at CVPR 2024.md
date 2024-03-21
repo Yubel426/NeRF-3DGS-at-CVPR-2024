@@ -125,6 +125,7 @@
 [37] L0-Sampler: An L0 Model Guided Volume Sampling for NeRF
 
 [38] How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering
+
 [39] Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling
 
 [40] TextNeRF: A Novel Scene-Text Image Synthesis Method based on Neural Radiance Fields
