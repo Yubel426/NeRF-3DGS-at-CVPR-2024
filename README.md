@@ -125,8 +125,8 @@ The following is a list of papers with code or paper.
 [Project](https://xingyi-li.github.io/s-dyrf/)
 
 - DyBluRF: Dynamic Neural Radiance Fields from Blurry Monocular Video
-[Paper](https://arxiv.org/abs/2312.13528)
-[Project](https://kaist-viclab.github.io/dyblurf-site/)
+[Paper](https://arxiv.org/abs/2403.10103)
+[Project](https://huiqiang-sun.github.io/dyblurf/)
 
 - VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams
 [Paper](https://arxiv.org/abs/2312.01407)
