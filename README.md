@@ -215,6 +215,7 @@ The following is a list of papers with code or paper.
 [Paper](https://arxiv.org/abs/2311.16493)
 [Project](https://niujinshuchong.github.io/mip-splatting/)
 
+
 ### Efficiency
 - GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering
 [Paper](https://arxiv.org/abs/2402.10128)
@@ -425,6 +426,11 @@ The following is a list of papers with code or paper.
 [Paper](https://arxiv.org/abs/2312.07504)
 [Project](https://oasisyang.github.io/colmap-free-3dgs/)
 
+### Large Scene
+- HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting
+[Paper](https://arxiv.org/abs/2403.12722)
+[Project](https://niujinshuchong.github.io/mip-splatting/)
+
 ### Others
 - PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 [Paper](https://arxiv.org/abs/2311.12198)
@@ -432,3 +438,4 @@ The following is a list of papers with code or paper.
 
 - MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians
 [Paper](https://arxiv.org/abs/2312.02137)
+
