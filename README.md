@@ -191,6 +191,10 @@ The following is a list of papers with code or paper.
   [Paper](https://arxiv.org/abs/2312.14239)
   [Project](https://platonerf.github.io/)
 
+- L0-Sampler: An L0 Model Guided Volume Sampling for NeRF
+  [Paper](https://arxiv.org/abs/2311.07044)
+  [Project](https://ustc3dv.github.io/L0-Sampler/)
+
 ## 3DGS at CVPR 2024
 ### Photorealism
 - FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization
