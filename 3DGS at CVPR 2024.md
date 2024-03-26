@@ -231,8 +231,8 @@
 
 [49] HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting
 
-- Paper: 
-- Project: 
+- Paper: https://arxiv.org/abs/2403.12722
+- Project: https://xdimlab.github.io/hugs_website/
 
 [50] Mip-Splatting: Alias-free 3D Gaussian Splatting
 
