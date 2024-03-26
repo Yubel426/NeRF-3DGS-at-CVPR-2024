@@ -123,6 +123,8 @@
 
 
 [37] L0-Sampler: An L0 Model Guided Volume Sampling for NeRF
+- Paper: https://arxiv.org/abs/2311.07044
+- Project: https://ustc3dv.github.io/L0-Sampler/
 
 [38] How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering
 
